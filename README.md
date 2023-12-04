@@ -67,3 +67,10 @@ even though it is in the Pico SDK
 Name|Description
 ---|---
 [stdio_pio](stdio/pio)| Demonstrates adding a custom STDIO driver using a PIO UART
+
+
+### Tone
+
+App|Description
+---|---
+[christmas_melody](tone/christmas_melody) | Play a christmas melody :notes::christmas_tree: with a Buzzer :speaker:.
